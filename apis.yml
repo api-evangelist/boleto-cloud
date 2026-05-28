@@ -1,0 +1,32 @@
+aid: boleto-cloud
+name: Boleto.Cloud
+description: "A api to generate boletos in Brazil"
+url: https://boleto.cloud/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: Boleto.Cloud
+    description: "A api to generate boletos in Brazil"
+    humanURL: https://boleto.cloud/
+    baseURL: https://boleto.cloud/
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://boleto.cloud/
+common:
+  - type: Website
+    url: https://boleto.cloud/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
