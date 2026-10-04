@@ -39,7 +39,6 @@ apis:
   - name: Boleto.Cloud
     description: "A api to generate boletos in Brazil"
     humanURL: https://boleto.cloud/
-    baseURL: https://boleto.cloud/
     tags:
       - Finance
     properties:
